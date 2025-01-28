@@ -1,5 +1,6 @@
                                                                             FRONTEND DEVELOPER
                                                                         currently learning JAVASCRIPT 
+                                                                would like to collaborate with friends or team
 
 
 
