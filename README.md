@@ -1,6 +1,7 @@
                                                                             FRONTEND DEVELOPER
-                                                                        currently learning JAVASCRIPT 
-                                                                would like to collaborate with friends or team
+                                                                     Currently learning JAVASCRIPT & REACT 
+                                                                Would like to collaborate with friends or team
+                                                            U can hit me up on x(twitter) via the username (Coderkayc)
 
 
 
