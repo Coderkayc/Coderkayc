@@ -1,7 +1,7 @@
                                                                             FRONTEND DEVELOPER
                                                                      Currently learning JAVASCRIPT & REACT 
                                                                 Would like to collaborate with friends or team
-                                                            U can hit me up on X(twitter) via the username (Coderkayc)
+                                                            U can hit me up on X(twitter) via the username (@Coderkayc)...
 
 
 
