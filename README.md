@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Coderkayc</h1>
 <h3 align="center">A passionate backend developer from Nigeria</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=coderkayc&label=Profile%20views&color=0e75b6&style=flat" alt="coderkayc" /> </p>
+
 - 🔭 I’m currently working on **attendance system**
 
 - 🌱 I’m currently learning **nestjs and fastify**
