@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭I'm currently working on an attendance system for universities.<br>🤝🏽I'm looking to collaborate on any backend related projects an ideas.<br>🍀I'm currently learning Nest.js and Fastify.<br>💭Ask me about anything backend related(Node.js).<br>⚡Am always smiling🙂,. 
+🔭I'm currently working on my skill set leveling up and adding more to what I already know<br>🤝🏽I'm looking to collaborate on any backend related projects an ideas.<br>🍀I'm currently learning Nest.js and Fastify<br>💭Ask me about anything backend related(Node.js).<br>⚡Am always smiling🙂
 
 
 ## 🌐 Socials:
@@ -13,21 +13,11 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Coderkayc&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Coderkayc&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=Coderkayc&theme=dark&no-frame=false&no-bg=false&margin-w=4)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Coderkayc&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
----
-[![](https://visitcount.itsvg.in/api?id=Coderkayc&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" title="LinkedIn" /> </picture> </a></p>
-
-<b>My GitHub Stats</b>
-
-<a href="http://www.github.com/Coderkayc"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Coderkayc&stroke=ffffff&background=7f1d1d&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 
