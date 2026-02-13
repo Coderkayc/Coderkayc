@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭I'm currently working on my skill set leveling up and adding more to what I already know.<br>🤝🏽I'm looking to collaborate on any backend related projects and ideas.<br>🍀I'm currently learning Nest.js and Fastify.<br>💭Ask me about anything backend related(Node.js).<br>⚡Am always smiling.🙂
+🔭I'm currently working on my skill set leveling up and adding more to what I already know.<br>🤝🏽I'm looking to collaborate on any backend related projects and ideas.<br>🍀I'm currently learning Nest.js and Fastify.<br>💭Ask me about anything backend related(Node.js).<br>⚡Am always smiling..🙂
 
 
 ## 🌐 Socials:
